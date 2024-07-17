@@ -1,0 +1,25 @@
+#AppleCounter {
+  justify-content: space-evenly;
+  align-items: center;
+  width: 98vw;
+  padding: 0;
+  display: flex;
+}
+
+.Button {
+  cursor: pointer;
+  border: .5px solid #000;
+  border-radius: 5.5px;
+  justify-content: center;
+  align-items: center;
+  width: 12vh;
+  height: 12vh;
+  display: flex;
+  overflow: hidden;
+}
+
+.ButtonImg {
+  width: 12vh;
+  height: 12vh;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */
