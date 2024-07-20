@@ -1,0 +1,16 @@
+#TodoShowerContainer{
+    height: 52vh;
+    margin-top: 10px;
+    width: 60vw;
+    background-color: white;
+    border-radius: 12px;
+
+    display: flex;
+    justify-content: center;
+    align-items: start;
+  
+      flex-wrap: wrap;
+      overflow-y: scroll;
+      flex-shrink: 0;
+
+}
